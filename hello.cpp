@@ -11,4 +11,7 @@ int main()
 	cout << "What am I?" << endl;
 	cout << "The answer is...." << endl;
 	cout << "FIRE!!" << endl;
+	
+	
+	cout << "Just kidding! But please be careful when playing with fire." << endl;
 }
